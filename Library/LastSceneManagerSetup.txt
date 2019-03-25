@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Exemplo Com dois jogadores.unity
+  isLoaded: 1
+  isActive: 1
